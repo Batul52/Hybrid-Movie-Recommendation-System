@@ -103,8 +103,8 @@ Qualitative comparison
 
 📁 Dataset
 
-MovieLens 20M Dataset
-https://grouplens.org/datasets/movielens/
+MovieLens 100k Dataset
+/kaggle/input/datasets/rajmehra03/movielens100k
 
 👩‍💻 Author
 
